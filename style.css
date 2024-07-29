@@ -1,0 +1,22 @@
+body{
+  background-color: #031c29;
+  color: #fbf7d1;
+}
+h1,h2,h3,h4,h5,h6{
+  text-align: center;
+  color: #d96297;
+}
+
+.recipe-photo{
+  height: 500px;
+  width: auto;
+}
+
+ul,
+ol,
+p{
+  font-size: 18px;
+}
+body p {
+  text-align: center;
+}
