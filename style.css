@@ -8,8 +8,10 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .recipe-photo{
+  display: block;
   height: 500px;
   width: auto;
+  margin: 0px auto;
 }
 
 ul,
@@ -19,4 +21,6 @@ p{
 }
 body p {
   text-align: center;
+  width: 80%;
+  margin: 0 auto;
 }
